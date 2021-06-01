@@ -1,0 +1,45 @@
+body
+{
+	background-image:url(BG1.jpg);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: blue;
+		padding: 10px;
+		float: none;
+		width: 20%;
+		color: yellow;
+	}
+
+
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+width: 70%;
+}
+#P1 , #P2, #P1_S, #P2_S{
+	margin-left: 10px;
+	color: yellow;
+	display: inline-block;
+}
+
+#won{
+	margin-left: 25%;
+	color: yellow;
+	display: inline-block;
+	font-size: 100px;
+}
